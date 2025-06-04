@@ -37,3 +37,9 @@ Follow these steps to run the project locally:
 ```bash
 git clone https://github.com/teja-mk18/NodeMongoRESTful.git
 cd NodeMongoRESTful
+```
+### 2.Make sure you have Node.js and npm installed. Then run:
+```bash
+npm install
+```
+
