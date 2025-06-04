@@ -42,4 +42,12 @@ cd NodeMongoRESTful
 ```bash
 npm install
 ```
+### 3. Setup MongoDB
+Update the MongoDB connection string in the project as needed.
+This is usually in a config file or in the environment variable
+
+### 4.run:
+```bash
+npm run dev
+```
 
